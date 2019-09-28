@@ -1,0 +1,5 @@
+这个仓库主要用于Web自动化测试框架和接口自动化测试框架的练习
+Web自动化框架基于 python+selenium+PO+unittest
+接口自动化框架基于 python+unittest+requests
+
+如果可以，后期会使用pytest框架替换unittest框架
