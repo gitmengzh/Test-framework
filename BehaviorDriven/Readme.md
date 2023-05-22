@@ -1,4 +1,5 @@
-BDD（Behavior-Driven Development）是一种测试方法，主要是以自然语言的形式描述应用程序的行为。BDD框架使用Gherkin语法，这是一种结构化的语言，使用关键词如Given、When、Then、And和But来描述应用程序的行为。BDD框架提供了以自然语言格式编写测试用例的能力，使其易于被所有利益相关者理解。Maven和Selenium TestNG使用Cucumber-JVM和TestNG-Cucumber插件支持BDD框架。
+BDD（Behavior-Driven Development）是一种测试方法，主要是以自然语言的形式描述应用程序的行为。BDD框架使用Gherkin语法，
+这是一种结构化的语言，使用关键词如Given、When、Then、And和But来描述应用程序的行为。BDD框架提供了以自然语言格式编写测试用例的能力，使其易于被所有利益相关者理解。Maven和Selenium TestNG使用Cucumber-JVM和TestNG-Cucumber插件支持BDD框架。
 
 
 
